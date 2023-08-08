@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <h1>this is alpha</h1>
+  <h1>라이브</h1>
 </template>
 
 <script>
