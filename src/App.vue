@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <h1>change beta slack alert test dsfads</h1>
+  <h1>change beta slack alert test dsafdsfadsfadsf</h1>
 </template>
 
 <script>
