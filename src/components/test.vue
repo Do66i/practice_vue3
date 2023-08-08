@@ -1,5 +1,5 @@
 <template>
-<p>this is beta</p>
+<p>this is dev</p>
 </template>
 
 <script>
