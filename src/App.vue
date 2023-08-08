@@ -2,6 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <h1>test</h1>
+  <h2>이것을 추가하고 싶습니다.</h2>
 </template>
 
 <script>
