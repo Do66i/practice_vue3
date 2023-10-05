@@ -2,7 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <h1>라이브</h1>
-  <h2>이것을 추가하고 싶습니다.</h2>
+  <h2>이것을 추가하고 싶습니다.!!!!</h2>
   <h3>기능 추가</h3>
 </template>
 
